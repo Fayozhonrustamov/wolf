@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Bavex";
+    src: url(Bavex-font.ttf);
+}
+
+body {
+    background-image: url(./images/i\ \(5\).webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(1, 124, 255);
+    text-align: center;
+    font-family: "Bavex";
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    background: white;
+    position: relative;
+    bottom: 20px;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 5px;
+}
+
+h3 {
+    font-size: 40px;
+    position: relative;
+    margin-top: 110px;
+}
+
+#pep {
+    border-bottom: 5px solid white;
+}
+.grt img{
+    width: 10%;
+    position: relative;
+    bottom: 200px;
+}
+button{
+    color: rgb(1, 124, 255);
+}
